@@ -5,3 +5,6 @@
 <br>
 
 My android third-party framework learning notes are updated from time to time.
+
+##### 学习记录
+- 2021/3/2：学习EventBus的基本使用
